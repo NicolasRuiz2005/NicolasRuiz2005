@@ -4,9 +4,3 @@
 - 🌱 I’m currently learning C++ 
 - 📫 My instagram : nico_ruizzz
 -  🐓 I'm French, from Toulouse 
-
-
-<!---
-NicolasRuiz2005/NicolasRuiz2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
