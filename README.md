@@ -4,4 +4,5 @@
 - 🌱 I’m currently learning C++, Java and JavaScript
 - 🎮 I'm also learning Unity
 - 📫 My instagram : nico_ruizzz
--  🐓 I'm French, from Toulouse 
+-  🐓 I'm French, from Toulouse
+ 
